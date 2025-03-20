@@ -1,0 +1,14 @@
+Programming Language:
+Human communicate with computers, allowing them to create software and applications.
+Two categories of programming language:
+1: Low level languages(like machine and assembly language)
+2:  High level languages(like Python, Java and C++)
+Dart:
+Dart is a programming language. 
+It is used for web ,mobile, desktop and server side development
+and it is open source and object-oriented programming language.
+Flutter:
+Flutter is a frame work within which it used.
+It is used for building mobile apps, desktop apps. 
+Flutter allows developers to maintain a single codebase for multiple platforms.
+
