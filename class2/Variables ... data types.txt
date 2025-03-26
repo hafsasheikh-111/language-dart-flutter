@@ -1,0 +1,14 @@
+void main() {
+  print("Bismiilah");
+  var name = ("Hafsa");
+  print(name);
+  String name1 = ("Hafsa Ahsan");
+  int number = 12;
+  double height = 5.2;
+  bool regularstudent = true;
+  print("Student Name : "+name1);
+  print("Roll number: $number");
+    print("Height : $height");
+   print("Regular Student : $regularstudent");
+}
+
