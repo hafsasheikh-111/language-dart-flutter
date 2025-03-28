@@ -1,0 +1,68 @@
+void main() {
+  // Leap year
+print("Leap year.................");
+  int year = 2025;
+  {
+    if (year % 4 == 0) {
+      print("$year is leapyear");
+    } else {
+      print("$year is not leapyear");
+    }
+  }
+
+  // Even/Odd
+print("Even/Odd.................");
+  {
+    int number = 46;
+
+    if (number % 2 == 0) {
+      print('$number is even');
+    } else {
+      print('$number is odd');
+    }
+  }
+
+  // Greater than >
+  print("Greater than.................");
+  int a = 57;
+  int b = 39;
+  if (a > b) {
+    print("$a is greater than $b");
+  } else {
+    print("$b is greater than $a");
+  }
+  //Less than <
+  print("Less than.................");
+  int p = 65;
+  int q = 73;
+  if (p < q) {
+    print("$p is less than $q");
+  } else {
+    print("$q is less than $p");
+  }
+  // Grade
+  print("Grade.................");
+  int marks = 80;
+  if (marks >= 80) {
+    print("You have got a A1 grade.");
+  } else if (marks >= 80) {
+    print("You have got a B grade.");
+  } else if (marks >= 80) {
+    print("You have got a C grade.");
+  } else if (marks >= 80) {
+    print("You have got a D grade.");
+  } else if (marks >= 80) {
+    print("You failed.");
+  }
+   //integer +/-  nested
+  print("Positive / Negative.................");
+  int number1 = 50;
+   if(number1>0){
+     print("$number1 is Positive integer");
+   }
+     else{
+       print("$number1 is Negative integer");
+       
+     }
+
+}
